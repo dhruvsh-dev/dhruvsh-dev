@@ -88,16 +88,16 @@ class AndroidDeveloper {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvsharma&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Dhruv's%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsharma&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvsh-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Dhruv's%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsh-dev&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsharma&layout=compact&theme=dark&hide_border=true&langs_count=10" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsh-dev&layout=compact&theme=dark&hide_border=true&langs_count=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvsharma&bg_color=0d1117&color=ffffff&line=3DDC84&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvsh-dev&bg_color=0d1117&color=ffffff&line=3DDC84&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -105,7 +105,7 @@ class AndroidDeveloper {
 ## 🏆 Achievements & Learning Journey
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvsharma&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvsh-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
 ### 🎓 Education
