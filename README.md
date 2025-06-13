@@ -151,8 +151,8 @@ class AndroidDeveloper {
 **⭐ Star my repositories if you find them useful!**
 **📱 Check out my apps and provide feedback!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvsharma&label=Profile%20views&color=3DDC84&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/dhruvsharma?label=Followers&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvsh-dev&label=Profile%20views&color=3DDC84&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/dhruvsh-dev?label=Followers&style=for-the-badge&color=blue)
 
 </div>
 
